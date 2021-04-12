@@ -1,4 +1,3 @@
-
 from distutils.core import setup
 
 setup(
@@ -9,8 +8,8 @@ setup(
   description = 'A wrapper for RPi.GPIO',   # Give a short description about your library
   author = 'Ananth H',                   # Type in your name
   author_email = 'anantha1.coolkopf@gmail.com',      # Type in your E-Mail
-  url = 'https://github.com/user/reponame',   # Provide either the link to your github or to your website
-  download_url = 'https://github.com/user/reponame/archive/v_01.tar.gz',    # I explain this later on
+  url = 'https://github.com/bigboy32/IntPi',   # Provide either the link to your github or to your website
+  download_url = 'https://github.com/bigboy32/IntPi/archive/v_01.tar.gz',    # I explain this later on
   keywords = ['python3', 'gpio', 'RPi.GPIO'],   # Keywords that define your package best
   classifiers=[
     'Development Status :: 4 - Beta',      # Chose either "3 - Alpha", "4 - Beta" or "5 - Production/Stable" as the current state of your package
